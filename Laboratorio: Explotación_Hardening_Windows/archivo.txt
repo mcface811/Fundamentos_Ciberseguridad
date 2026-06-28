@@ -1,0 +1,3 @@
+Identificar y aprovechar vulnerabilidades, fallos de configuración o debilidades en el sistema operativo y sus aplicaciones para ganar acceso no autorizado.
+Elevar privilegios o ejecutar código malicioso, con el fin de implementar medidas de seguridad y configuraciones avanzadas que reduzcan la superficie de ataque.
+Mitiguen riesgos y protejan el entorno contra estas amenazas.
